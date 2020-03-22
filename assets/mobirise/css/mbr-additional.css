@@ -1343,6 +1343,15 @@ section.lazy-placeholder:after {
 .cid-rTVlc8lCdj .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rTVSsaerhZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rTVSsaerhZ .mbr-text,
+.cid-rTVSsaerhZ blockquote {
+  color: #767676;
+}
 .cid-rTVB2hEjaF {
   padding-top: 90px;
   padding-bottom: 90px;
